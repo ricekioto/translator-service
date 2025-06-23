@@ -1,6 +1,5 @@
 package com.example.project_telegram_bot.service;
 
-import com.example.project_telegram_bot.entity.ResponseData;
 import org.springframework.stereotype.Service;
 
 @Service
