@@ -27,4 +27,5 @@ public class TranslationController {
     public ResponseEntity<String> handleRequestServiceException(TranslatorServiceException ex) {
         return new ResponseEntity<>(ex.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
     }
+
 }
