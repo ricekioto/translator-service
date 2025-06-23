@@ -11,7 +11,6 @@ public class BuildingUrlService {
     private final String SOURCE_LANG = "en"; // Язык оригинала
     private final String TARGET_LANG = "ru";
 
-
     public String getTranslationUrl(String text) {
 
         String url = UriComponentsBuilder.fromUriString(translationUrl)
