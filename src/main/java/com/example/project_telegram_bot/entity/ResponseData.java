@@ -7,8 +7,6 @@ import lombok.Setter;
 @Getter
 @Setter
 public class ResponseData {
-
     @JsonProperty("translatedText")
     private String translatedText;
-
 }
