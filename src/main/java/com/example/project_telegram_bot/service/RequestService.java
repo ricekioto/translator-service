@@ -26,4 +26,5 @@ public class RequestService {
             throw new RequestServiceException("Ошибка во время запроса: ", e);
         }
     }
+
 }
