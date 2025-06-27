@@ -9,4 +9,5 @@ import lombok.Setter;
 public class ResponseData {
     @JsonProperty("translatedText")
     private String translatedText;
+
 }
