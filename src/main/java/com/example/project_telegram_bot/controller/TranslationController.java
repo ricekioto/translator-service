@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/api")
 public class TranslationController {
-
     private final TranslatorService translatorService;
 
     @GetMapping("/translate")
