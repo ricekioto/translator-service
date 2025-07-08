@@ -17,5 +17,4 @@ public class TranslatorService {
         String response = requestService.getTranslatedText(url);
         return response;
     }
-
 }
