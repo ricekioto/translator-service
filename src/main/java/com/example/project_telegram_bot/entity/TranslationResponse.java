@@ -9,5 +9,4 @@ import lombok.Setter;
 public class TranslationResponse {
     @JsonProperty("responseData")
     private ResponseData responseData;
-
 }
