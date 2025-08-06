@@ -23,3 +23,4 @@ public class TranslationController {
         return new ResponseEntity<>(ex.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);
     }
 }
+
