@@ -10,3 +10,4 @@ public class ResponseData {
     @JsonProperty("translatedText")
     private String translatedText;
 }
+
