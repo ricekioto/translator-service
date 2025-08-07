@@ -9,7 +9,4 @@ public class TranslatorServiceApplication {
     public static void main(String[] args) {
         SpringApplication.run(TranslatorServiceApplication.class, args);
     }
-
 }
-
-
