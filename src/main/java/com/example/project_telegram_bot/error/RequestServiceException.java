@@ -9,6 +9,3 @@ public class RequestServiceException extends RuntimeException {
     super(message, cause);
   }
 }
-
-
-
