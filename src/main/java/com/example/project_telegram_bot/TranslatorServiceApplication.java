@@ -10,5 +10,3 @@ public class TranslatorServiceApplication {
         SpringApplication.run(TranslatorServiceApplication.class, args);
     }
 }
-
-
