@@ -9,6 +9,3 @@ public class TranslatorServiceException extends RuntimeException {
         super(message, cause);
     }
 }
-
-
-
